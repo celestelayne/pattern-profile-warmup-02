@@ -1,0 +1,40 @@
+body {
+  font-family: 'Space Mono', monospace;
+  background: lightgrey;
+  text-align: center;
+}
+
+.header {
+  background: #333;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+.lorem{
+  color: #333;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.lorem-1 {
+  background: #f1c40f;
+}
+
+.lorem-2 {
+  background: #e67e22;
+}
+
+.lorem-3 {
+  background: #e74c3c;
+}
+
+/* header background #333
+lorem text;
+lorem-1 background #f1c40f
+lorem-2 background #e67e22
+lorem-3 background #e74c3c */
